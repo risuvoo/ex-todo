@@ -16,10 +16,6 @@ It provides RESTful endpoints to manage tasks including creating, reading, updat
 - **Dotenv**
 - **CORS**
 
----
-
-## 📁 Folder Structure
-
 ```
 todo-app-backend/
 ├── prisma/                # Prisma schema and migrations
